@@ -52,13 +52,6 @@ In the meantime, we have added a manual synchronization button next to notes ico
 
 ## Installation
 
-<div align="center">
-    <a href="https://chromewebstore.google.com/u/1/detail/leethub-v3/kdkgpjpenaeoodajljkflmlnkoihkmda" rel="Download leetcode plugin">
-        <img src="https://embedsignage.com/wp-content/uploads/2016/04/embed-signage-chromeos-web-store-button.png" alt="Download leetcode plugin" width="300" />
-    </a>
-</div>
-
-
 **(Optional) Manual installation**
 
     You can also install the plugin manually. Please follow the steps below.
