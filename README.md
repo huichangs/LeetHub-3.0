@@ -58,12 +58,8 @@ In the meantime, we have added a manual synchronization button next to notes ico
     </a>
 </div>
 
-1. **Chrome Web Store**
 
-    Install this plugin using Chrome Web Store. Please find the link above. This is the preferred way of installation. Updates are installed automatically.
-
-
-2. **(Optional) Manual installation**
+**(Optional) Manual installation**
 
     You can also install the plugin manually. Please follow the steps below.
 
